@@ -18,3 +18,11 @@ button{
     border: transparent;
 
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
